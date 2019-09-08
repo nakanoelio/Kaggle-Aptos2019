@@ -1,5 +1,6 @@
 # Kaggle-Aptos2019
-Code for the Kaggle Competition APTOS 2019 Blindeness Detection with 0.832 cohen kappa
+Code for the Kaggle Competition APTOS 2019 Blindeness Detection with 0.832 cohen kappa. Position 2303 out of 2987.
+https://www.kaggle.com/c/aptos2019-blindness-detection/leaderboard
 
 Based on the following codes:
 
