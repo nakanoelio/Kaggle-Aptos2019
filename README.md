@@ -12,3 +12,4 @@ by https://www.kaggle.com/xhlulu
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter2-deep-networks/densenet-cifar10-2.4.1.py
 by Advanced Deep Learning with Keras - Rowel Atienza
 
+
